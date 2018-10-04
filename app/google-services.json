@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "444541088811",
+    "firebase_url": "https://germanpasttensequiznew.firebaseio.com",
+    "project_id": "germanpasttensequiznew",
+    "storage_bucket": "germanpasttensequiznew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444541088811:android:f2220f60990dc8f8",
+        "android_client_info": {
+          "package_name": "com.example.android.germanpasttensequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444541088811-0ljskojcm7tgss6ljt57p4s5nogotc5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.germanpasttensequiz",
+            "certificate_hash": "56a52d191bed929c4c55c4947441ef7fff1826a4"
+          }
+        },
+        {
+          "client_id": "444541088811-cok0k229u4hn009ru42q4qhg5nhf1evf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAur82jHbtGPStBjqyBRLjDTXTV4xOJxOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444541088811-cok0k229u4hn009ru42q4qhg5nhf1evf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

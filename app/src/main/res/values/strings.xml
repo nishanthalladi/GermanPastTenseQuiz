@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GermanPastTenseQuiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="correct_toast">Right! :)</string>
+    <string name="wrong_toast">Wrong! :(</string>
+    <string name="next_button">NEXT</string>
+    <string name="hint_button">HINT</string>
+    <string name="show_answer_button">SHOW</string>
+    <string name="confirm">Are you sure?</string>
+    <string name="answer" />
+    <string name="q1">True or False: hat gemacht = has made</string>
+    <string name="q2">True or False: ist gegessen = has ate</string>
+    <string name="q3">True or False: hat gelaufen = has run</string>
+    <string name="q4">True or False: hat geeinladen = to invite</string>
+    <string name="q5">True or False: ist gerudert = to row</string>
+    <string name="q6">True or False: hat gekauft = bought</string>
+    <string name="q7">True or False: hat geholft = helped</string>
+    <string name="q8">hat verstehen = understood</string>
+    <string name="q9">True or False: hat gezeigt = showed</string>
+    <string name="q10">hat geleckt = licked</string>
+</resources>

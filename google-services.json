@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "527477374648",
+    "firebase_url": "https://german-past-tense-quiz.firebaseio.com",
+    "project_id": "german-past-tense-quiz",
+    "storage_bucket": "german-past-tense-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527477374648:android:f2220f60990dc8f8",
+        "android_client_info": {
+          "package_name": "com.example.android.germanpasttensequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527477374648-l9897j81ve7il9bfrq96ruu1kc3jrole.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH69Axu95EeGiB4aMkW8TVsMTABzn41D8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
